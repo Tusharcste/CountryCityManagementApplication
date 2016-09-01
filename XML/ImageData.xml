@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<images>
+  <image name="welcome.png" order="1"></image>
+  <image name="welcome.png" order="2"></image>
+  <image name="i3.jpg" order="3"></image>
+   <image name="welcome.png" order="4"></image>
+  <image name="i5.jpg" order="5"></image>
+  <image name="welcome.png" order="6"></image>
+</images> 
